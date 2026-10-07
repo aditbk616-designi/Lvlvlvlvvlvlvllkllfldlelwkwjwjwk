@@ -1,0 +1,28 @@
+{
+    "8009147536": {
+        "unique_device_id": "Google|6a9d1d0c-842c-43ae-bead-c361c596eda2",
+        "brand": "Vivo",
+        "model": "V2203",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 12 / API-31",
+        "screen_width": 720,
+        "screen_height": 2400,
+        "screen_dpi": "304",
+        "memory": 6270,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2796 | 8",
+        "client_ip": "175.57.59.60"
+    },
+    "70de27030ff8cabef1ea2a94659d89a9": {
+        "unique_device_id": "Google|9e75659c-684c-4d49-86ad-98530c77d61d",
+        "brand": "Xiaomi",
+        "model": "2201122G",
+        "gpu_renderer": "Adreno (TM) 730",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 720,
+        "screen_height": 2400,
+        "screen_dpi": "368",
+        "memory": 4009,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2815 | 9",
+        "client_ip": "126.120.229.193"
+    }
+}

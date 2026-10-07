@@ -1,0 +1,10 @@
+[
+  {
+    "code": "84FF-DEMO-PERMANENT",
+    "created_at": 1791320205,
+    "expires_at": null,
+    "active": true,
+    "uses": 7,
+    "label": "Local demo permanent license"
+  }
+]
